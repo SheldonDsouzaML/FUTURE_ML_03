@@ -50,7 +50,7 @@ Customer_Support_Chatbot/
 
 ---
 
-##📸 Demo Screenshot
+## 📸 Demo Screenshot
 
 <img width="1919" height="1028" alt="Screenshot 2025-09-30 190527" src="https://github.com/user-attachments/assets/693001a6-d7df-4a0d-8106-8b1d984988a4" />
 
